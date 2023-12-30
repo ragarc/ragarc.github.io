@@ -1,0 +1,1 @@
+Hello, I remember when I was a kid I wanted to make a website but I didn't really know how. I still dont know how but now I know github hosts ur html page for free. How amazing. Put https://ragarc.github.io/ on the searchbar to see what it looks like!
