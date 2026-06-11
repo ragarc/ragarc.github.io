@@ -49,3 +49,20 @@ p {
   padding: 10px; /* Optional: Add padding for additional spacing inside the container */
   /*border: 1px solid #ccc; /* Optional: Add a border for visual clarity */
 }
+
+/* .visualizer-container {
+    width: 80vw;   
+    height: 50vh;  
+    
+    background-color: #1a1a1e;
+    border-radius: 4px;
+} */
+
+.visualizer-container {
+    width: 95%;     /* Fills almost the entire width on small screens */
+    max-width: 900px; /* Stops growing once it reaches 900 pixels wide on desktops */
+    height: 450px;  /* Fixed structural height */
+    
+    background-color: #1a1a1e;
+    border-radius: 8px;
+}
